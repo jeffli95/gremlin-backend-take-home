@@ -8,6 +8,6 @@ java -jar target/gremlin-backend-take-home-1.0-SNAPSHOT-jar-with-dependencies.ja
 ```
 
 My primary goal was to showcase OOP principles.
-I have used jackson library many times over the years and I really like it for its ability to convert JSON into POJO and vice versa.
+I have also used jackson library many times over the years and I really like it for its ability to convert JSON into POJO and vice versa.
 
 There are also a few JUnit tests under the Test package which I used during my development.
